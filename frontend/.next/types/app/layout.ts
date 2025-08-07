@@ -1,4 +1,4 @@
-// File: C:\Users\Dev\Desktop\Henry Jhonson\frontend\app\layout.tsx
+// File: C:\Users\DELL\WEATHER_API_SETUP\frontend\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
